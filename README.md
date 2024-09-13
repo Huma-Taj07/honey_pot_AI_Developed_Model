@@ -14,12 +14,13 @@ Before running the project, ensure that the following software and libraries are
 
 ## Steps to Run the Project
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+   
    Clone the repository to your local machine using the command below:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-2. **Navigate to the Project Directory**
+3. **Navigate to the Project Directory**
    Change the directory to the project folder:
    ```bash
    cd your-repo-name
