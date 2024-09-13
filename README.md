@@ -10,7 +10,7 @@ Before running the project, ensure that the following software and libraries are
 - Jupyter Notebook
 - Required Python packages (can be installed using `requirements.txt`)
 - 
-# Steps to Run the Code
+
 
 ## Steps to Run the Project
 
@@ -18,3 +18,8 @@ Before running the project, ensure that the following software and libraries are
    Clone the repository to your local machine using the command below:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+2. **Navigate to the Project Directory**
+   Change the directory to the project folder:
+   ```bash
+   cd your-repo-name
