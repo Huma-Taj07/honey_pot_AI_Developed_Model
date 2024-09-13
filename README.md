@@ -18,7 +18,7 @@ Before running the project, ensure that the following software and libraries are
    
    Clone the repository to your local machine using the command below:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Huma-Taj07/honey_pot_AI_Developed_Model.git
 
 2. **Navigate to the Project Directory**
    
