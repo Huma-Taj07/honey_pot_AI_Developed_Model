@@ -20,7 +20,33 @@ Before running the project, ensure that the following software and libraries are
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-3. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**
+   
    Change the directory to the project folder:
    ```bash
    cd your-repo-name
+
+3. **Install Dependencies**
+   
+   If you have a `requirements.txt` file, install the required Python libraries using the following command:
+   ```bash
+   pip install -r requirements.txt
+
+4. **Launch Jupyter Notebook**
+   
+   Start Jupyter Notebook from the command line:
+   ```bash
+   jupyter notebook
+
+5. **Open the Notebook**
+   
+   In the Jupyter Notebook interface that opens in your web browser, navigate to and open the .ipynb file related to the Honeypot AI model.
+
+6. **Run the Cells**
+   
+   Once the notebook is open, run all the cells by selecting `Cell > Run` All or running the cells individually. This will execute the code in each section of the notebook.
+
+8. **Observe the Output**
+   
+   The notebook will display the output of each step, including data loading, model training, evaluation, and predictions for ransomware detection.
+   
